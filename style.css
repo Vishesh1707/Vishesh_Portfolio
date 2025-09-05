@@ -96,7 +96,7 @@ nav {
 /* Hero Section */
 .hero {
     background-color: var(--secondary-color);
-    background-image: url('imgs/portfolioimage.jpg');
+    background-image: url('portfolioimage.jpg');
     background-size: cover;
     background-position: center;
     padding: 150px 20px 80px;
@@ -383,4 +383,5 @@ footer {
     background-color: var(--dark-bg);
     color: #888;
     border-top: 1px solid #333;
+
 }
