@@ -147,7 +147,7 @@ nav {
 
 /* Timeline Sections */
 #education{
-    background-image: url('imgs/educimage.jpg');
+    background-image: url('educimage.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -221,7 +221,7 @@ nav {
 
 /* Skills Section */
 #skills{
-    background-image: url('imgs/pexels-luis-gomes-166706-546819.jpg');
+    background-image: url('pexels-luis-gomes-166706-546819.jpg');
     background-size: cover ;
     background-position: center;
     position: relative;
@@ -285,7 +285,7 @@ nav {
 
 /* Projects Section */
 #projects{
-    background-image: url('imgs/project.jpg');
+    background-image: url('project.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -336,7 +336,7 @@ nav {
 }
 /*Certification section*/
 #certifications{
-    background-image: url('imgs/portfolbg.jpg');
+    background-image: url('portfolbg.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -385,3 +385,4 @@ footer {
     border-top: 1px solid #333;
 
 }
+
